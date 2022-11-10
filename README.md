@@ -1,4 +1,6 @@
-- 👋  Hi, I’m Manas Anand, a junior at UIUC studying CS + Mathematics. I will be interning at BlackEdge Capital as a Quantatative Developer, and I've previously interned at JPMorgan Chase & Co, and AbbVie Inc as a software engineer.
+- 👋  Hi, I’m Manas Anand, a junior at UIUC studying CS + Mathematics. I will be interning at [BlackEdge Capital](https://www.blackedge.com/) as a Quantatative Developer.
+
+- I've previously interned at [JPMorgan Chase & Co](https://www.jpmorganchase.com/), and [AbbVie Inc](https://www.abbvie.com/) as a software engineer.
 
 - 👀  I’m interested in low-latency algorithmic trading systems, algorithms, and discrete mathematics.
 
