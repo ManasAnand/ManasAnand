@@ -4,7 +4,7 @@
 
 - 👀  I’m interested in low-latency algorithmic trading systems, algorithms, and discrete mathematics.
 
-- 🌱  I’m currently learning advanced algorithms, database systems, combinatorics.
+- 🌱  I’m currently learning advanced algorithms, database systems, combinatorics. In my free time, I am an alternative hip-hop and rock music enthusiast and an avid cinephile.
 
 - 📫  Feel free to reach out to me at manasa3@illinois.edu
 
