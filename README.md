@@ -2,7 +2,7 @@
 
 - ⏰ I've previously interned at  [BlackEdge Capital](https://www.blackedge.com/), [JPMorgan Chase & Co](https://www.jpmorganchase.com/), and [AbbVie Inc](https://www.abbvie.com/) as a software engineer.
 
-- 👀  I’m interested in low-latency algorithmic trading systems, algorithms, and discrete mathematics.
+- 👀  I’m interested in distributed systems, algorithms, and discrete mathematics.
 
 - 🌱  I’m currently learning about distributed systems, real analysis, and numerical analysis. I am a self proclaimed cinephile and enjoy listening to alternative rock and hip-hop mustic (do you recognize my profile picture?).
 
