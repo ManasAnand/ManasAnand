@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Manas Anand, a senior at UIUC studying CS + Mathematics graduating in December 2023. Currently looking for any New Grad roles in the quantitative trading and software fields.
+- 👋  Hi, I’m Manas Anand, a December 2023 grad from the University of Illinois Urbana-Champaign, where I majored in Mathematics & Computer Science. I currently work as a Software Engineer at [Sprout Social](https://www.sproutsocial.com). 
 
 - ⏰ I've previously interned at  [BlackEdge Capital](https://www.blackedge.com/), [JPMorgan Chase & Co](https://www.jpmorganchase.com/), and [AbbVie Inc](https://www.abbvie.com/) as a software engineer.
 
