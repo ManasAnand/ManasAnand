@@ -4,7 +4,7 @@
 
 - 👀  I’m interested in distributed systems, algorithms, and discrete mathematics.
 
-- 🌱  I’m currently learning about distributed systems, real analysis, and numerical analysis. I am a self proclaimed cinephile and enjoy listening to alternative rock and hip-hop music.
+- 🌱  I’m currently learning about category theory and how it applies to the field of computer science. I am a cinephile and enjoy listening to alternative rock and hip-hop music.
 
 - 📫  Feel free to reach out to me at manasa3@illinois.edu
 
