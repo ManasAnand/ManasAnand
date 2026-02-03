@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Manas Anand, a December 2023 grad from the University of Illinois Urbana-Champaign, where I majored in Mathematics & Computer Science. I currently work as a Software Engineer at [IMDbPro](https://www.pro.imdb.com/). 
+- 👋  Hi, I’m Manas Anand, a December 2023 grad from the University of Illinois Urbana-Champaign, where I majored in Mathematics & Computer Science. I currently work as a Software Engineer at [IMDbPro](https://pro.imdb.com/). 
 
 - ⏰ I was previously at [Amazon Games]([https://](https://www.amazongamestudios.com/en-us). I've also previously interned at [BlackEdge Capital](https://www.blackedge.com/), [JPMorgan Chase & Co](https://www.jpmorganchase.com/), and [AbbVie Inc](https://www.abbvie.com/) as a software engineer.
 
